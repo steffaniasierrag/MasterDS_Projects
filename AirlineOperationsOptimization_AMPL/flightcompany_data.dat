@@ -1,0 +1,49 @@
+data;
+
+set Terminal := Rome Berlin Paris Vienna Brussels Amsterdam;
+set Flight :=
+(Rome, Berlin)
+(Rome, Paris)
+(Rome, Vienna)
+(Berlin, Rome)
+(Berlin, Vienna)
+(Berlin, Amsterdam)
+(Paris, Rome)
+(Paris, Vienna)
+(Paris, Brussels)
+(Paris, Amsterdam)
+(Vienna, Rome)
+(Vienna, Berlin)
+(Vienna, Paris)
+(Brussels, Paris)
+(Brussels, Amsterdam)
+(Amsterdam, Paris)
+(Amsterdam, Brussels);
+
+param Profit :=
+Rome, Berlin 7
+Rome, Paris 5
+Rome, Vienna 4
+Berlin, Rome 7
+Berlin, Vienna 4
+Berlin, Amsterdam 6
+Paris, Rome 5
+Paris, Vienna 2
+Paris, Brussels 4
+Paris, Amsterdam 1
+Vienna, Rome 5
+Vienna, Berlin 6
+Vienna, Paris 5
+Brussels, Paris 4
+Brussels, Amsterdam 4
+Amsterdam, Paris 8
+Amsterdam, Brussels 4;
+
+param CostOpening :=
+Rome 4
+Berlin 3
+Paris 9
+Vienna 7
+Brussels 6
+Amsterdam 8;
+
