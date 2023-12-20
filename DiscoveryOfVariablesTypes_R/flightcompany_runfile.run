@@ -1,0 +1,12 @@
+reset;
+
+model flights_c.mod;
+data flights_c.dat;
+
+option solver cplex;
+
+solve;
+
+display Open;
+display QuantityFlight;
+display TotalCost;
