@@ -24,11 +24,11 @@ Welcome to my GitHub repository showcasing the projects I completed during my Ma
 
 3. **Statistical Types Discovery. A Practical Implementation and Comparative Analysis in R**
    - Description: Brief description of the project.
-   - Link: [Project 2 Folder](./DiscoveryOfVariablesTypes_R/)
+   - Link: [Project 3 Folder](./DiscoveryOfVariablesTypes_R/)
 
 4. **Campaign Successful Predictor**
    - Description: Brief description of the project.
-   - Link: [Project 2 Folder](Kickstarter_Project_Spark/)
+   - Link: [Project 4 Folder](Kickstarter_Project_Spark/)
 
 ## Technologies Used
 - Python
