@@ -1,3 +1,20 @@
-<p>Welcome!</p>
-<p>This folder contains the code, a report of the project developed during the course of Distributed Data Mining and Analysis. This course aim to cover the fundaments of working with big data, and the library Spark.</p>
-# Kickstarter Project
+# Campaign Success Predictor
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Methodology](#projects)
+3. [Course Content](#installation)
+4. [Files](#usage)
+5. [Final Notes](#technologies-used)
+
+## Introduction
+
+## Methodology
+
+## Course Content
+
+## Files
+
+## Final notes
+
