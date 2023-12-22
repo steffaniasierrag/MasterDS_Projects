@@ -9,22 +9,22 @@ Welcome to my GitHub repository. Here you will find a compilation of the project
 
 ## Projects
 
-1. **Campaign Successful Predictor**
+1. **'Campaign Successful Predictor'**
    - Description: This project utilizes the Kickstarter dataset to build and assess various classifier models for predicting the success of crowdfunding campaigns. Employing machine learning techniques, the goal is to offer insights and predictive tools to aid campaign creators and backers in making informed decisions.
    - Tools: Spark
    - Link: [Project Folder](Kickstarter_Project_Spark/)
 
-2. **Statistical Types Discovery. A Practical Implementation and Comparative Analysis in R**
+2. **'Statistical Types Discovery. A Practical Implementation and Comparative Analysis in R'**
    - Description: in this project I delve into the realm of variable characterization using the model proposed in the paper "Automatic Discovery of the Statistical Types of Variables in a Dataset." The project involves the implementation of the model in R, followed by the a benchmark analysis.
    - Tools: R
    - Link: [Project Folder](./DiscoveryOfVariablesTypes_R/)
    
-3. **Optimizing Revenue for Flight Operations: An ILP Approach**
+3. **'Optimizing Revenue for Flight Operations: An ILP Approach'**
    - Description: this project presents an integer linear programming model to maximize the revenue of an airline. The model considers operational costs and explores the strategic opening of terminals to achieve optimal revenue outcomes for company.
    - Tools: AMPL
    - Link: [Project Folder](./AirlineOperationsOptimization_AMPL/)
 
-4. **Emotion Recognition from Audio: A Multimodal Approach**
+4. **'Emotion Recognition from Audio'**
    - Description: explore the fusion of audio information with machine learning techniques for emotion prediction. This project employs classification and regression models to quantify emotional states and utilizes pattern mining to uncover underlying trends in the dataset.
    -  Tools: Python, Pandas, Scikit-learn, Matplotlib.
    - Link: [Project Folder](./EmotionRecognition_Python/)
