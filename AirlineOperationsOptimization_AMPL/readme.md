@@ -1,4 +1,4 @@
-# Optimizing Revenue for Flight Operationsù
+# Optimizing Revenue for Flight Operations
 
 ## Table of Contents
 
