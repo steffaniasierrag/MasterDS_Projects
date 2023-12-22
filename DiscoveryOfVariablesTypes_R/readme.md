@@ -12,7 +12,7 @@ This project focuses on implementing and evaluating the statistical variable typ
 ## Files
 In this folder you find the following files:
 * VariablesTypesDiscovery_code.R file with the implementation of the algorithm,
-* VariablesTypesDiscoverSimulations_datatypes.R with the code that generates the data used for simulations, and the graphics to carry a simulation analysis,
+* VariablesTypesDiscoverSimulations_datatypes.R with the code that generates the data used for simulations, and the graphics to carry out a simulation analysis,
 * the project presentation in the .pdf file.
 
 ## Dependencies
