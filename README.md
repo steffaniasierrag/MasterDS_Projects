@@ -9,7 +9,7 @@ Welcome to my GitHub repository. Here you will find a compilation of the project
 
 ## Projects
 
-1. **`Campaign Successful Predictor`**
+1. **`KickSuccess Predictor: Development of PySpark Classifiers for Kickstarter`**
    - Description: This project utilizes the Kickstarter dataset to build and assess various classifier models for predicting the success of crowdfunding campaigns. Employing machine learning techniques, the goal is to offer insights and predictive tools to aid campaign creators and backers in making informed decisions.
    - Tools: Spark
    - Link: [Project Folder](Kickstarter_Project_Spark/)
