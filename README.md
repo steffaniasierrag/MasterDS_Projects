@@ -9,11 +9,11 @@ Welcome to my GitHub repository. Here you will find a compilation of the project
 
 ## Projects
 
-1. **`SectorSherlock: Classifying company descriptions into business sectors`**
+1. **`SectorSherlock: classifying company descriptions into business sectors`**
    - Description: The goals of this project are to identify linguistic patterns in companies’ descriptions in order to categorise them into different classes according to which industry they belong, and to create a recommendation dictionary of keywords for every industry.
    - Tools: Python, NLTK, Spacy, Scikit-learn
    - Link: [Project Folder](SectorScherlock_NLP/)
-2. **`KickSuccess Predictor: Development of PySpark Classifiers for Kickstarter`**
+2. **`KickSuccess: success Predictor for Kickstarter Projects`**
    - Description: This project utilizes the Kickstarter dataset to build and assess various classifier models for predicting the success of crowdfunding campaigns. Employing machine learning techniques, the goal is to offer insights and predictive tools to aid campaign creators and backers in making informed decisions.
    - Tools: Spark
    - Link: [Project Folder](Kickstarter_Project_Spark/)
